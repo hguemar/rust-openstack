@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RequestBuilder","An HTTP request builder."],["Session","An OpenStack API session."]]});
